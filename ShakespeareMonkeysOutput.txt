@@ -1,0 +1,13 @@
+-- Program began on Mon Jan 16 19:39:40 2017 --
+-- String: 'methinks it is like a weasel'
+>>> Mon Jan 16 19:39:40 2017 | 1 hpzlsqkmxp eymoaaqucyqprncbk 0.03571428571428571
+>>> Mon Jan 16 19:39:40 2017 | 7 x trtgwwczsnwsajzuzbsyxunyde 0.07142857142857142
+>>> Mon Jan 16 19:39:40 2017 | 12 aj nvlmxzk  iswkarremwjgkoqv 0.10714285714285714
+>>> Mon Jan 16 19:39:40 2017 | 118 qwavixzurjcsuglldmndr ukydfl 0.14285714285714285
+>>> Mon Jan 16 19:39:40 2017 | 224 viuhdcesmiqgnv iajfuguhdiabl 0.17857142857142858
+>>> Mon Jan 16 19:39:40 2017 | 1704 jeihjewsbnrbxdiguoe hacosaal 0.21428571428571427
+>>> Mon Jan 16 19:39:41 2017 | 11513 vnwznz soiz ficwfkjwu rbjxel 0.25
+>>> Mon Jan 16 19:39:46 2017 | 151071 mishhfkriqx iwpltqqnacmextgz 0.2857142857142857
+>>> Mon Jan 16 19:39:57 2017 | 459659 etvudgrukhtcioifnns a waaael 0.32142857142857145
+Mon Jan 16 19:40:16 2017 | 1000000 sfpaonmmiqypjluipdbvfgamxucb 0.03571428571428571
+Mon Jan 16 19:40:52 2017 | 2000000 ltjmsdorypkoebymhgsfofm qgmu 0.0
